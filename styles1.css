@@ -154,6 +154,5 @@ footer {
     margin-right: 10px;
 }
 .text{
-    display:flex;
-    justify-content: center;
+    text-align: center;
 }
